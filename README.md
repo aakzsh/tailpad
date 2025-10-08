@@ -103,7 +103,7 @@ You can directly download ready-to-use binaries from the [`dist/`](./dist) folde
 
 ## 🧑‍💻 Author
 
-Developed by [Your Name](https://github.com/yourusername)
+Developed by [Aakash](https://github.com/aakzsh)
 
 ---
 
